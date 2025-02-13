@@ -62,8 +62,8 @@ If you want to include a database, follow these steps:
 2. If you get a **database connection error**, check the database credentials in `db_conn.php`.
 3. If you make changes, restart **Apache** and **MySQ**L in the **XAMPP** Control Panel.
 
-## Contributing
+# Contributing
 Feel free to contribute to the project by forking the repository and submitting pull requests.
 
-## License
+# License
 This project is licensed under the MIT License.
